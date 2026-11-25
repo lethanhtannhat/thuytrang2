@@ -1,0 +1,11 @@
+Check repo hiện tại: git remote -v
+Remove repo: git remote remove origin
+check lai: git remote -v
+add repo moi : git remote add origin [link repo.git]
+check: git remote -v
+
+git add .
+git commit -m "khach moi"
+
+git branch -M main
+git push -u origin main
